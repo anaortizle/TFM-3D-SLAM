@@ -4,7 +4,7 @@ Desarrollo de una herramienta que permite la reconstrucción 3D de entornos y la
 
 ## 📂 Estructura del Proyecto
 - **src/**: Código Python para detección y reconstrucción.
-- **data/**: Datos utilizados en los experimentos.
+- **data/**: Algunos de los datos utilizados en los experimentos.
 - **results/**: Mapas 3D generados y resultados de detección.
 
 ## 🛠 Tecnologías
